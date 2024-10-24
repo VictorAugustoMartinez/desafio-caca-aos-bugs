@@ -6,15 +6,8 @@
 ## 📱 Projeto
 Depuração e solução de bugs, pensamento crítico e analítico, segurança e qualidade de software aplicando testes de unidade.
 
-## Participantes
-### 🚀 Líder Técnico
-[NOME e GITHUB]
-
 ### 👻 Caçadores de Bugs
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
+* Victor Augusto Martinez de Farias
 
 ## ⚙️ Tecnologias
 * C# 12
